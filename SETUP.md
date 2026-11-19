@@ -2,7 +2,7 @@
 
 ## The easy way: let Claude set it up (about 10 minutes)
 
-1. **Get the kit onto your Mac.** Download the zip, double-click it to unzip, and drag the `ai-office-kit` folder into your **home folder** (in Finder: Go menu, Home). Your home folder is the one with your name, holding Desktop, Documents and Downloads.
+1. **Get the kit onto your Mac.** Download the zip, double-click it to unzip, and drag the unzipped folder into your **home folder** and rename it `ai-office-kit` (GitHub calls it `ai-office-main`) (in Finder: Go menu, Home). Your home folder is the one with your name, holding Desktop, Documents and Downloads.
 2. **Open it in Claude Code.** In the Claude desktop app, open the **Code** tab, start a new session and choose the `ai-office-kit` folder as the folder to work in.
 3. **Paste this:**
 
