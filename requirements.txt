@@ -1,0 +1,1 @@
+# AI Office has no third-party Python dependencies. It runs on the Python 3 standard library.

@@ -1,0 +1,215 @@
+{
+ "sessions": {
+  "s0": {
+   "session": "Meta ads (Rory)",
+   "name": "Rory",
+   "dept": "Meta ads",
+   "status": "NEEDS YOU",
+   "latest": "The new carousel test is ready. Can I move $20 a day from the old ad set to it?",
+   "ts": "2026-11-19T05:33:11Z",
+   "order": 1
+  },
+  "s1": {
+   "session": "Google ads (Juno)",
+   "name": "Juno",
+   "dept": "Google ads",
+   "status": "BUILDING",
+   "latest": "Rewriting the search ads for the spring range.",
+   "ts": "2026-11-19T05:39:11Z",
+   "order": 1
+  },
+  "s2": {
+   "session": "Creative: product video (Nell)",
+   "name": "Nell",
+   "dept": "Creative: product video",
+   "status": "BUILDING",
+   "latest": "Cutting the 15 second version of the launch video.",
+   "ts": "2026-11-19T05:36:11Z",
+   "order": 2
+  },
+  "s3": {
+   "session": "Website (Theo)",
+   "name": "Theo",
+   "dept": "Website",
+   "status": "DONE",
+   "latest": "The faster product page is live and checked on a phone.",
+   "ts": "2026-11-19T05:01:11Z",
+   "order": 3
+  },
+  "s4": {
+   "session": "SEO: buying guide (Mira)",
+   "name": "Mira",
+   "dept": "SEO: buying guide",
+   "status": "IDLE",
+   "latest": "Buying guide is drafted and waiting for photos.",
+   "ts": "2026-11-19T00:41:11Z",
+   "order": 4
+  },
+  "s5": {
+   "session": "Email newsletter (Bea)",
+   "name": "Bea",
+   "dept": "Email newsletter",
+   "status": "DONE",
+   "latest": "Friday newsletter is scheduled for 7am.",
+   "ts": "2026-11-19T04:31:11Z",
+   "order": 5
+  },
+  "s6": {
+   "session": "CRM inbox (Otto)",
+   "name": "Otto",
+   "dept": "CRM inbox",
+   "status": "IDLE",
+   "latest": "Inbox is clear. Three replies are queued for your check.",
+   "ts": "2026-11-18T23:01:11Z",
+   "order": 6
+  },
+  "s7": {
+   "session": "Social posts (Lena)",
+   "name": "Lena",
+   "dept": "Social posts",
+   "status": "DONE",
+   "latest": "Next week of posts is in the calendar.",
+   "ts": "2026-11-19T04:06:11Z",
+   "order": 7
+  },
+  "s8": {
+   "session": "Customer support (Arlo)",
+   "name": "Arlo",
+   "dept": "Customer support",
+   "status": "BUILDING",
+   "latest": "Answering the delivery questions from the weekend.",
+   "ts": "2026-11-19T05:38:11Z",
+   "order": 8
+  },
+  "s9": {
+   "session": "Landing page (Zara)",
+   "name": "Zara",
+   "dept": "Landing page",
+   "status": "IDLE",
+   "latest": "The waitlist page is built and waiting on copy.",
+   "ts": "2026-11-18T19:41:11Z",
+   "order": 9
+  },
+  "s10": {
+   "session": "Bookkeeping (Ravi)",
+   "name": "Ravi",
+   "dept": "Bookkeeping",
+   "status": "IDLE",
+   "latest": "October is reconciled. Two receipts are missing.",
+   "ts": "2026-11-18T18:01:11Z",
+   "order": 10
+  },
+  "s11": {
+   "session": "Payroll (Ines)",
+   "name": "Ines",
+   "dept": "Payroll",
+   "status": "DONE",
+   "latest": "Payroll file is ready for the bank.",
+   "ts": "2026-11-19T03:11:11Z",
+   "order": 11
+  },
+  "s12": {
+   "session": "Rental: 12 Example St lease (Pip)",
+   "name": "Pip",
+   "dept": "Rental: 12 Example St lease",
+   "status": "IDLE",
+   "latest": "Lease renewal letter drafted for the agent.",
+   "ts": "2026-11-18T14:41:11Z",
+   "order": 12
+  },
+  "s13": {
+   "session": "Podcast (Felix)",
+   "name": "Felix",
+   "dept": "Podcast",
+   "status": "IDLE",
+   "latest": "Episode 4 notes are done.",
+   "ts": "2026-11-18T13:01:11Z",
+   "order": 13
+  },
+  "s14": {
+   "session": "Warehouse dispatch (Wren)",
+   "name": "Wren",
+   "dept": "Warehouse dispatch",
+   "status": "DONE",
+   "latest": "Today's 14 orders are packed and booked.",
+   "ts": "2026-11-19T03:41:11Z",
+   "order": 14
+  },
+  "s15": {
+   "session": "Research tools (Quinn)",
+   "name": "Quinn",
+   "dept": "Research tools",
+   "status": "IDLE",
+   "latest": "Found two tools worth a look. Notes are in the card.",
+   "ts": "2026-11-18T09:41:11Z",
+   "order": 15
+  }
+ },
+ "questions": {
+  "demo-budget": {
+   "title": "Move $20 a day to the new carousel test?",
+   "session": "Meta ads (Rory)",
+   "when": "Today",
+   "where": "phone",
+   "status": "open",
+   "created": "2026-11-19T05:11:11Z",
+   "context": "The problem: the old ad set has stopped making sales.\nSo what: we keep paying for it.\nThe fix: move $20 a day to the new carousel test for 7 days.\nNot affected: the search ads and the email list.\n\nMore detail\n1. The old ad set cost $140 last week for 1 sale.\n2. I check it again next Friday and put the result on a card.",
+   "rec": "Yes, move $20 a day for 7 days",
+   "rec_index": 0,
+   "why": "Cheap test, easy to undo.",
+   "options": [
+    "Yes, move $20 a day for 7 days",
+    "No, leave it",
+    "Change it: type what"
+   ]
+  },
+  "demo-photos": {
+   "title": "Which photos go in the buying guide?",
+   "session": "SEO: buying guide (Mira)",
+   "when": "This week",
+   "where": "mac",
+   "status": "open",
+   "created": "2026-11-19T05:21:11Z",
+   "context": "The problem: the guide needs 4 photos and I have 9 to choose from.\nSo what: it can't go live without them.\nThe fix: pick 4 from the shared folder, or tell me to choose.\nNot affected: everything else on the site.",
+   "options": [
+    "You choose",
+    "I will pick them"
+   ],
+   "rec": "You choose",
+   "rec_index": 0
+  },
+  "demo-done": {
+   "title": "Send the Friday newsletter at 7am?",
+   "session": "Email newsletter (Bea)",
+   "status": "done",
+   "created": "2026-11-17T03:41:11Z",
+   "answered_at": "2026-11-17T05:21:11Z",
+   "answer": "Yes, 7am",
+   "reply": "Scheduled for 7am Friday.",
+   "context": "The problem: the newsletter is ready.\nSo what: it needs a send time.\nThe fix: Friday 7am.\nNot affected: nothing else."
+  }
+ },
+ "meta": {
+  "status": {
+   "line": "1 needs you \u00b7 3 working \u00b7 5 on a break \u00b7 7 quiet",
+   "filled_at": "2026-11-19T05:31:11Z"
+  },
+  "people": {
+   "owner": {
+    "name": "You"
+   },
+   "manager": {
+    "name": "Ada"
+   },
+   "staff": {}
+  }
+ },
+ "messages": {
+  "m1": {
+   "from": "manager",
+   "text": "Morning. One card needs you (Rory, the ad budget). Everything else is moving.",
+   "at": "2026-11-19T05:26:11Z",
+   "seen": false
+  }
+ }
+}
